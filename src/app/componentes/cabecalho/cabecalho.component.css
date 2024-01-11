@@ -24,6 +24,7 @@
 .cabecalho p {
   font-size: 2rem;
   color: #6BD1FF;
+  font-family: 'Inter', sans-serif;
 }
 
 @media (max-width: 576px) {
